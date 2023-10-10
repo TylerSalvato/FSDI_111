@@ -1,0 +1,12 @@
+a class is to an object as a blueprint is to a house
+
+# Variables that belong to a class are called (class) attributes
+# Functions that belong to a class are called "methods"
+
+
+export FLASK_APP=app/routes.py
+export FLASK_ENV=development
+flask run
+
+sh run_local.sh
+
